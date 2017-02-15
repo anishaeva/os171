@@ -1,0 +1,3 @@
+"Anisha Eva Farida"
+The tasks in this week is about introduction to Git.
+For example create folder, file, and how to push and pull.
