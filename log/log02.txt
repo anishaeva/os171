@@ -1,0 +1,6 @@
+w02-170220-11-PS-About: Tried to do lab task for week02
+w02-170221-13-LR-About: Studied about encryption, From: Lecturer
+w02-170221-14-LR-About: Studied about security, From: Lecturer
+w02-170222-01-PS-About: Tried to slove lab task for week02
+w02-170223-13-LR-About: Studied about C in class, From: Lecturer
+w02-170224-13-PS-About: Made some revised in my lab task for week02
