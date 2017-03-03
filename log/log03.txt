@@ -1,0 +1,7 @@
+w03-170228-13-LR-About: Explanation about BIOS, From: Lecturer
+w03-170228-13-LR-About: Explanation about BIOS, From: Lecturer
+w03-170302-13-LR-About: Explanation about booting, From: Lecturer
+w03-170302-13-LR-About: Explanation about booting, From: Lecturer
+w03-170302-14-LR-About: Explanation about variable and pointer, From: Lecturer
+w03-170303-11.30-PS: Do task for lab on week03
+w03-170303-12-PS: Do task for lab on week03
