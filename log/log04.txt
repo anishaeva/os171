@@ -1,0 +1,9 @@
+w04-170307-13-LR-About: I/O Pointer in class, From: Lecturer
+w04-170307-13-LR-About: I/O Pointer in class, From: Lecturer
+w04-170307-14-LR-About: I/O Pointer in class, From: Lecturer
+w04-170310-17-PS: Do lab task for week04
+w04-170310-18-PS: Do lab task for week04
+w04-170310-18-DS: Read some article about I/O Pointer
+w04-170310-18-PS: Do lab task for week04
+w04-170310-19-PS: Do lab task for week04
+
