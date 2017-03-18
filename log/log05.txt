@@ -4,8 +4,8 @@ w05-170314-14-LR-About: Memory, From: Lecturer
 w05-170316-13-PS: Tried to solve problem in midterm, From: Lecturer
 w05-170316-13-PS: Tried to solve problem in midterm, From: Lecturer
 w05-170316-14-PS: Tried to solve problem in midterm, From: Lecturer
-w05-170318-16-PS: Tried to do lab task on week05
-w05-170318-20-LR: Read some articles about top commands in putty
-w05-170319-00-LR: Read article about malloc() and system()
-w05-170319-01-PS: Tried to do lab task on week05
-w05-170319-01-PS: Tried to do lab task on week05
+w05-170317-16-PS: Tried to do lab task on week05
+w05-170317-20-LR: Read some articles about top commands in putty
+w05-170318-00-LR: Read article about malloc() and system()
+w05-170318-01-PS: Tried to do lab task on week05
+w05-170318-01-PS: Tried to do lab task on week05
