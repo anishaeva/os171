@@ -1,0 +1,9 @@
+w06-170413-13-LR-About: Synchronization in class, From: Lecturer
+w06-170413-13-LR-About: Critical Section and race condition in class, From: Lecturer
+w06-170413-14-LR-About: Semaphores, deadlock, starvation. readers-writers problem in class, From: Lecturer
+w06-170414-11-LR: Read article about pid, ppid, and some functions in c or linux
+w06-170414-11-PS: Start to do task for lab on week06
+w06-170414-11-PS: Do task for lab on week06
+w06-170415-00-PS: Do task for lab on week06
+w06-170415-00-LR: read article about wait(null) and fflush()
+w06-170415-00-PS: Do task for lab on week06
