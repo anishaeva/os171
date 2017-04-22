@@ -1,0 +1,8 @@
+w07-170418-13-LR-About: Membahas mengenai myutils.c, From: Lecturer
+w07-170418-13-LR-About: Membahas mengenai demo terkait program-program menggunakan semaphore, membahas tentang critical section, From: Lecturer
+w07-170420-13-LR-About: Membahas mengenai scheduling dan socket, From: Lecturer
+w07-170420-13-LR-About: Membahas mengenai scheduling dan socket, From: Lecturer
+w07-170420-14-LR-About: Membahas mengenai scheduling dan socket, From: Lecturer 
+w07-170422-13-LS: Membaca artikel terkait critical section
+w07-170422-13-PS: Do task for week07
+w07-170422-14-PS: DO task for week07
