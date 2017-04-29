@@ -1,1 +1,10 @@
-w08-170425-
+w08-170425-13-LR: Try to do some exercises in class, From: Lecturer
+w08-170425-13-LR: Do some exercises in class, From: Lecturer
+w08-170425-14-LR: Studied in class, From: Lecturer
+w08-170427-13-LR: Studied in class, From: Lecturer
+w08-170427-13-LR: Studied in class, From: Lecturer
+w08-170427-14-LR: Studied in class, From: Lecturer
+w08-170427-17-LR: Reading article about sockets for lab week08
+w08-170428-12-PS: Do task for week08 
+w08-170428-12-PS: Do task for week08
+w08-170428-13-PS: Do task for weeok08
